@@ -3,7 +3,7 @@
 
 **VLSM-Calculator**
 
-![Assignment!](screenshot/vslm.png)  
+![Assignment!](screenshot/vlsm.png)  
 
 **Brust error correction using Hamming Code**
 

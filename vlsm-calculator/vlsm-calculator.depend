@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1591239739 source:c:\users\user\desktop\vlsm-calculator\vlsm-calculator\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1591238272 c:\users\user\desktop\vlsm-calculator\vlsm-calculator\functions.h
+	<iomanip>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1591239375 source:c:\users\user\desktop\vlsm-calculator\vlsm-calculator\functions.cpp
+	"functions.h"
+
